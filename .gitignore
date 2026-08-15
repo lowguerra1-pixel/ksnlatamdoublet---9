@@ -1,0 +1,10 @@
+# Google Drive
+desktop.ini
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+._*
